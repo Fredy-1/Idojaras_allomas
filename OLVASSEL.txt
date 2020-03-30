@@ -1,0 +1,2 @@
+Idojaras_allomas_v9 mappa alapértelmezetten a C/Dokumentumok/Ardunio mappában kell hogy legyen
+A könytárak mappa tartalmát át kell másolni a C/Dokumentumok/Ardunio/libraries mappába, felül kell írni ha van egyezés

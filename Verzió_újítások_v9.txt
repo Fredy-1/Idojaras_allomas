@@ -1,0 +1,13 @@
+V9
+-wifi csatlakozás hibajelzés időtúlépés növelve
+-néhány időjárási leírás újra gondolva, pontosítva
+-szélerősség függő betűszín hozzáadva
+-betűszín érték szerinti változtatás újragondolva külön void-ot kapott az átláthatóság növelése érdekében
+-erős-szél ikon hozzáadva
+-óra betűmérete növeleve 42-re jobb olvashatóság miatt
+-felfedeztem egy hibát a extrém esetben a belső pára tud több lenni mint 100%
+-blynkhez hozzáadtam a szél és légnyomást
+-módosítottam a blynkre kiküldött ikonok számát, újragondoltam a kiküldés módját
+-hozzáadtam a harmatpontot és a hőérzetet
+-javítva lett a 4.bpm hold ikon, véletlenül egy vékony keret maradt a kép körül
+-blynkben értesítéseket definiáltam: szélsőséges szobahőmérséklet, páratartalom, erős szél 50km/h felett
